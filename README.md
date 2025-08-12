@@ -49,11 +49,7 @@ The training adn evaluation of models were performed in a Jupyter notebook. You 
 📎 [View Colab Notebook](https://colab.research.google.com/drive/1XLvKaaJ4DRWW70YME4eL0zt4M0Y3kuvO#scrollTo=L-H1iMm3hcwB)
 
 
-## 👨‍💻 Developed by
-- [Deepak Dayanandan](https://github.com/DeepakDayanandan1)  
-- [Angel Joseph](https://github.com/angeljoseph23)  
-- [Fathima N](https://github.com/Fathima570)  
-- [Nithya Stanly](https://github.com/NithyaStanly)   
+
 
 
 
